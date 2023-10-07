@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695831550 source:e:\embeded\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<dos.h>
+	"Sudoku.h"
+
+1696074428 source:e:\embeded\sudoku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	"Sudoku.h"
+
+1696074428 e:\embeded\sudoku\sudoku.h
+
